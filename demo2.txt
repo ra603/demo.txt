@@ -1,0 +1,4 @@
+print" hello world"
+my name is rajagouda 
+ ima from raichyr 
+ my state is karanataka
